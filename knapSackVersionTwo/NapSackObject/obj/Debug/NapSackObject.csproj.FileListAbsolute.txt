@@ -1,0 +1,8 @@
+C:\Users\Jay\Documents\Academia\Computer Science\GitHub\Projects\CS364\NapSackObject\NapSackObject\bin\Debug\NapSackObject.dll
+C:\Users\Jay\Documents\Academia\Computer Science\GitHub\Projects\CS364\NapSackObject\NapSackObject\bin\Debug\NapSackObject.pdb
+C:\Users\Jay\Documents\Academia\Computer Science\GitHub\Projects\CS364\NapSackObject\NapSackObject\obj\Debug\NapSackObject.dll
+C:\Users\Jay\Documents\Academia\Computer Science\GitHub\Projects\CS364\NapSackObject\NapSackObject\obj\Debug\NapSackObject.pdb
+C:\Users\Jay\Desktop\knapSackVersionTwo\NapSackObject\bin\Debug\NapSackObject.dll
+C:\Users\Jay\Desktop\knapSackVersionTwo\NapSackObject\bin\Debug\NapSackObject.pdb
+C:\Users\Jay\Desktop\knapSackVersionTwo\NapSackObject\obj\Debug\NapSackObject.dll
+C:\Users\Jay\Desktop\knapSackVersionTwo\NapSackObject\obj\Debug\NapSackObject.pdb

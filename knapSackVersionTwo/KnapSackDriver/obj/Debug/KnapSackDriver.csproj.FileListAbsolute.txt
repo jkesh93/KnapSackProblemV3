@@ -1,0 +1,17 @@
+c:\users\labuser\documents\visual studio 2015\Projects\KnapSackDriver\KnapSackDriver\bin\Debug\KnapSackDriver.exe.config
+C:\Users\Jay\Documents\Academia\Computer Science\GitHub\Projects\CS364\knapSackVersionTwo\KnapSackDriver\bin\Debug\KnapSackDriver.exe.config
+C:\Users\Jay\Documents\Academia\Computer Science\GitHub\Projects\CS364\knapSackVersionTwo\KnapSackDriver\bin\Debug\KnapSackDriver.exe
+C:\Users\Jay\Documents\Academia\Computer Science\GitHub\Projects\CS364\knapSackVersionTwo\KnapSackDriver\bin\Debug\KnapSackDriver.pdb
+C:\Users\Jay\Documents\Academia\Computer Science\GitHub\Projects\CS364\knapSackVersionTwo\KnapSackDriver\bin\Debug\NapSackObject.dll
+C:\Users\Jay\Documents\Academia\Computer Science\GitHub\Projects\CS364\knapSackVersionTwo\KnapSackDriver\bin\Debug\NapSackObject.pdb
+C:\Users\Jay\Documents\Academia\Computer Science\GitHub\Projects\CS364\knapSackVersionTwo\KnapSackDriver\obj\Debug\KnapSackDriver.csprojResolveAssemblyReference.cache
+C:\Users\Jay\Documents\Academia\Computer Science\GitHub\Projects\CS364\knapSackVersionTwo\KnapSackDriver\obj\Debug\KnapSackDriver.exe
+C:\Users\Jay\Documents\Academia\Computer Science\GitHub\Projects\CS364\knapSackVersionTwo\KnapSackDriver\obj\Debug\KnapSackDriver.pdb
+C:\Users\Jay\Desktop\knapSackVersionTwo\KnapSackDriver\bin\Debug\KnapSackDriver.exe.config
+C:\Users\Jay\Desktop\knapSackVersionTwo\KnapSackDriver\obj\Debug\KnapSackDriver.exe
+C:\Users\Jay\Desktop\knapSackVersionTwo\KnapSackDriver\obj\Debug\KnapSackDriver.pdb
+C:\Users\Jay\Desktop\knapSackVersionTwo\KnapSackDriver\bin\Debug\KnapSackDriver.exe
+C:\Users\Jay\Desktop\knapSackVersionTwo\KnapSackDriver\bin\Debug\KnapSackDriver.pdb
+C:\Users\Jay\Desktop\knapSackVersionTwo\KnapSackDriver\bin\Debug\NapSackObject.pdb
+C:\Users\Jay\Desktop\knapSackVersionTwo\KnapSackDriver\obj\Debug\KnapSackDriver.csprojResolveAssemblyReference.cache
+C:\Users\Jay\Desktop\knapSackVersionTwo\KnapSackDriver\bin\Debug\NapSackObject.dll

@@ -1,0 +1,86 @@
+
+
+ 	Price 	 Weight 	 Price/Weight Ratio
+1
+	 40 	   2			20
+
+2
+	 30 	   5			6
+
+3
+	 50 	   10			5
+
+4
+	 10 	   5			2
+
+
+Step: 1. Visiting Node: (0, 0)
+Profit: 0	Weight: 0
+
+Step: 2. Visiting Node: (1, 1)
+Profit: 40	Weight: 2
+Promising
+
+Step: 3. Visiting Node: (2, 1)
+Profit: 70	Weight: 7
+Promising
+
+Step: 4. Visiting Node: (3, 1)
+Profit: 120	Weight: 17
+Non-promising -- weight >= W
+
+ Step: 5. BACKTRACKING TO NODE: (2, 1)
+
+Step: 6. Visiting Node: (3, 2)
+Profit: 70	Weight: 7
+Promising
+
+Step: 7. Visiting Node: (4, 1)
+Profit: 80	Weight: 12
+Non-promising -- bound < maxProfit
+
+ Step: 8. BACKTRACKING TO NODE: (3, 2)
+
+Step: 9. Visiting Node: (4, 2)
+Profit: 70	Weight: 7
+Non-promising -- bound < maxProfit
+
+ Step: 10. BACKTRACKING TO NODE: (1, 1)
+
+Step: 11. Visiting Node: (2, 2)
+Profit: 40	Weight: 2
+Promising
+
+Step: 12. Visiting Node: (3, 3)
+Profit: 90	Weight: 12
+Promising
+
+Step: 13. Visiting Node: (4, 3)
+Profit: 100	Weight: 17
+Non-promising -- weight >= W
+
+ Step: 14. BACKTRACKING TO NODE: (3, 3)
+
+Step: 15. Visiting Node: (4, 4)
+Profit: 90	Weight: 12
+Non-promising -- bound < maxProfit
+
+ Step: 16. BACKTRACKING TO NODE: (2, 2)
+
+Step: 17. Visiting Node: (3, 4)
+Profit: 40	Weight: 2
+Non-promising -- bound < maxProfit
+
+ Step: 18. BACKTRACKING TO NODE: (0, 0)
+
+Step: 19. Visiting Node: (1, 2)
+Profit: 0	Weight: 0
+Non-promising -- bound < maxProfit
+Include item 1? True
+Profit: 40	 Weight: 2
+Include item 2? False
+Profit: 40	 Weight: 2
+Include item 3? True
+Profit: 90	 Weight: 12
+Include item 4? False
+Profit: 90	 Weight: 12
